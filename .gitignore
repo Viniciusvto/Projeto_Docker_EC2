@@ -1,0 +1,14 @@
+# Python bytecode / cache
+__pychace__/
+*.pyc
+
+#ambientes virtuais 
+.venv
+venv/
+
+#variaveis de ambiente com dados sensiveis 
+.env
+
+#Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
